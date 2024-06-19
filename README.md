@@ -9,9 +9,13 @@ source env/bin/activate
 pip install --upgrade pip //need to be on latest version
 
 pip install web3
+
 pip install pandas
+
 pip install matplotlib
+
 pip install scipy
+
 pip install scikit-learn
 
 python gas_anomaly_detection.py
