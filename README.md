@@ -7,6 +7,7 @@ source env/bin/activate
 //then install required dependencies
 
 pip install --upgrade pip //need to be on latest version
+
 pip install web3
 pip install pandas
 pip install matplotlib
